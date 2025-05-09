@@ -1,2 +1,11 @@
-# tip-calculator
-A tip calculator that helps you calculate the tip and total amount for a bill. You can input the bill amount and tip percentage to get the tip and the total amount to be paid.
+# Tip Calculator
+
+Welcome to the **Tip Calculator** repository! 
+
+## 🚀 Live Demo
+
+You can check out the live demo of this project by clicking the link below:
+
+🔗 [Live Demo](https://khalid-randhawa.web.app/apps-projects/tip-calculator.html)
+
+---
